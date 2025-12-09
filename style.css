@@ -80,7 +80,13 @@ body {
     background-color: #555; /* Cambia el color de fondo */
     color: #DEB887; /* Un color de texto destacado */
 }
-
+body{
+    cursos: url('https://unsplash.com/es/ilustraciones/cometa-de-pixel-art-con-cola-ardiente-sobre-fondo-negro--xeq9k1djIY'), pointer;
+    cursor:pointer;
+    }
+a:hover{
+    cursor: url ('https://unsplash.com/es/ilustraciones/cometa-de-pixel-art-con-cola-ardiente-sobre-fondo-negro--xeq9k1djIY'), pointer;
+    }
 /* Estilo para el contenido principal */
 main {
     padding: 20px;
@@ -97,6 +103,7 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
 
 
 
