@@ -81,7 +81,7 @@ body {
     color: #DEB887; /* Un color de texto destacado */
 }
 body{
-    cursos: url('"C:\Users\silva\Downloads\premium_vector-1757338351399-11ab356a18a5.avif"'), pointer;
+    cursos: url('https://www.shutterstock.com/es/search/pixel-asteroid'), pointer;
     cursor:pointer;
     }
 a:hover{
@@ -103,6 +103,7 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
 
 
 
