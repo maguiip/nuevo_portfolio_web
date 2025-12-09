@@ -12,7 +12,7 @@
 }
 
 .foto-perfil {
-    width: 150px; /* Tamaño de la foto */
+    width: 80px; /* Tamaño de la foto */
     height: 50px;
     object-fit: cover; /* Asegura que la imagen cubra el área sin distorsionarse */
     border-radius: 50%; /* Hace la imagen circular */
@@ -30,11 +30,11 @@
     color: #555;
 }
 
-/* Estilo para la línea divisoria (opcional) */
+/* Estilo para la línea */
 hr {
     border: 0;
     height: 1px;
-    background-color: #ADD8E6;
+    background-color: #F0E68C;
     margin: 40px auto;
     width: 80%;
 }
@@ -47,7 +47,7 @@ body {
 
 /* Barra de Navegación */
 .barra-principal {
-    background-color: #D3D3D3; /* Fondo oscuro para la barra */
+    background-color: #800000; /* Fondo oscuro para la barra */
     padding: 10px 0;
 }
 
@@ -59,16 +59,16 @@ body {
     text-align: center; /* Centra los enlaces */
 }
 
-/* Hacemos que los elementos de la lista se muestren en línea (horizontalmente) */
+/* Hacemos que los elementos de la lista se muestren en orden */
 .barra-principal ul li {
     display: inline;
     margin: 0 15px; /* Espacio entre los "casilleros" */
 }
 
-/* Estilo de los enlaces (el texto dentro de los casilleros) */
+/* Estilo de los enlace o inicios*/
 .barra-principal ul li a {
     color: white; /* Color del texto */
-    text-decoration: none; /* Quitamos el subrayado */
+    text-decoration: none; 
     font-weight: bold;
     padding: 8px 15px;
     border-radius: 5px; /* Bordes redondeados para simular un "casillero" */
@@ -103,6 +103,7 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
 
 
 
