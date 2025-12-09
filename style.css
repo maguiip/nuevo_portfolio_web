@@ -78,7 +78,7 @@ body {
 /* Efecto al pasar el ratón sobre un enlace */
 .barra-principal ul li a:hover {
     background-color: #555; /* Cambia el color de fondo */
-    color: #ffd700; /* Un color de texto destacado */
+    color: #DEB887; /* Un color de texto destacado */
 }
 
 /* Estilo para el contenido principal */
@@ -97,5 +97,6 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
 
 
