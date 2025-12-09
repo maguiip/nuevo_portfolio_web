@@ -85,7 +85,7 @@ body{
     cursor:pointer;
     }
 a:hover{
-    cursor: url ('"C:\Users\silva\Downloads\premium_vector-1757338351399-11ab356a18a5.avif"'), pointer;
+    cursor: url ('C:\Users\silva\Downloads\premium_vector-1757338351399-11ab356a18a5.avif'), pointer;
     }
 /* Estilo para el contenido principal */
 main {
@@ -103,6 +103,7 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
 
 
 
