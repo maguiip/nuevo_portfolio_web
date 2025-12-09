@@ -13,7 +13,7 @@
 
 .foto-perfil {
     width: 150px; /* Tamaño de la foto */
-    height: 150px;
+    height: 50px;
     object-fit: cover; /* Asegura que la imagen cubra el área sin distorsionarse */
     border-radius: 50%; /* Hace la imagen circular */
     margin-right: 30px; /* Espacio a la derecha de la foto */
@@ -34,7 +34,7 @@
 hr {
     border: 0;
     height: 1px;
-    background-color: #ccc;
+    background-color: #ADD8E6;
     margin: 40px auto;
     width: 80%;
 }
@@ -47,7 +47,7 @@ body {
 
 /* Barra de Navegación */
 .barra-principal {
-    background-color: #333; /* Fondo oscuro para la barra */
+    background-color: #D3D3D3; /* Fondo oscuro para la barra */
     padding: 10px 0;
 }
 
@@ -103,6 +103,7 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
 
 
 
